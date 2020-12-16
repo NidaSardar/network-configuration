@@ -1,0 +1,8 @@
+region = "us-east-1"
+vpc-cidr-range = "10.20.0.0/16"
+vpc-name = "test-vpc"
+IGW-name = "igw"
+public-subnet-name = "PublicSubnet"
+private-subnet-name = "PrivateSubnet"
+public-RT = "PublicRouteTable"
+private-RT = "PrivateRouteTable"
